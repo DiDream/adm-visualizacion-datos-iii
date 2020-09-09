@@ -30,6 +30,7 @@ Puede acceder a la demo de la aplicación en **[http://edu.ajmonfue.me/adm-3/](h
 
 ## Enunciados
 ### 1. Para el framework de visualización desarrrollado en la práctica anterior, incorpora las modificaciones planteadas por el profesor durante la sesión de evaluación.
+En esta sección, describiré las mejoras realizadas planteadas por mí.
 
 #### Añadir campo al formulario del cliente para indicar la columna de agrupación, útil para las gráficas de dispersión.
 Para las gráficas de lineas y de barras dicho campo está deshabilitado, puesto que su valor se calcula segun el siguiente criterio:
@@ -75,7 +76,7 @@ Se permite filtrar valores de uno de los ejes, según el siguiente criterio:
     | ![Formulario de gráfica con campos filtrados (eje X)](assets/images/form-filtered-x.png) | ![Gráfica con campos filtrados (eje X)](assets/images/chart-filtered-x.png) |
 
 
-* Se permitirá filtrar valores del eje Y, si se selecciona múltiples valores para el `eje X` y un sólo valor para el `eje Y`.
+* Se permitirá filtrar valores del eje Y, si se selecciona múltiples valores para el `eje X` y un solo valor para el `eje Y`.
 
     **Datos**: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-06-2020.csv
 
