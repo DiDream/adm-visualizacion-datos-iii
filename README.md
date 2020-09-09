@@ -2,7 +2,9 @@
 ![Build and deploy server to GKE](https://github.com/DiDream/adm-visualizacion-datos-iii/workflows/Build%20and%20deploy%20server%20to%20GKE/badge.svg?branch=master)
 ![Build and deploy client to GKE](https://github.com/DiDream/adm-visualizacion-datos-iii/workflows/Build%20and%20deploy%20client%20to%20GKE/badge.svg?branch=master)
 
-Puede acceder a la demo de la aplicación en **[http://edu.ajmonfue.me/adm-3/](http://edu.ajmonfue.me/adm-3/)**
+## Notas
+* Repositorio del proyecto: [https://github.com/DiDream/adm-visualizacion-datos-iii](https://github.com/DiDream/adm-visualizacion-datos-iii)
+* Puede acceder a la demo de la aplicación en **[http://edu.ajmonfue.me/adm-3/](http://edu.ajmonfue.me/adm-3/)**
 
 ## Tabla de contenido
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
